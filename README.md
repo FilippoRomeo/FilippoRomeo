@@ -18,8 +18,8 @@
 ## 📌 Featured Projects
 - **[Poetformer](https://github.com/FilippoRomeo/poetformer)** — Fine-tuned LLaMA for **AI poetry generation**  
 - **[UrbanSound Classifier](https://github.com/FilippoRomeo/urbansound-classifier)** — CNN-based **urban sound recognition**  
-- **[AI Art Generator](https://github.com/FilippoRomeo/ai-art-generator)** — Transformer-based **image-to-art pipeline**  
-- **[Book Research AI](https://github.com/FilippoRomeo/book-ai)** — Tool to **catalog & analyze books with AI**  
+- **[AI Art Generator](https://github.com/FilippoRomeo/ai-art-generator)** — Transformer-based **image-to-art pipeline**  private
+- **[Book Research AI](https://github.com/FilippoRomeo/book-ai)** — Tool to **catalog books with OpenCV**  private
 - **[Skinsuit](https://www.skinsuit.uk/)** — Custom **MERN stack web app** with Shopify integration, 3D UI, and creative direction  
 
 🎥 [Robotic Art Project](https://www.youtube.com/watch?v=f-IxzqylGVI) – Experimental audiovisual glitch aesthetics using Go + data moshing  
