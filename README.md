@@ -161,7 +161,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=pie)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=donut&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=radical&langs_count=20&hide=c%23,css,&size_weight=0.3&count_weight=0.7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=radical&langs_count=20&size_weight=0.3&count_weight=0.7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&theme=radical&langs_count=20&size_weight=0.3&count_weight=0.7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
