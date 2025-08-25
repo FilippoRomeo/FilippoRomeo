@@ -159,6 +159,15 @@
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoRomeo&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
+?username=FilippoRomeo
+&layout=compact
+&theme=radical
+&langs_count=8
+&hide=c%23,shaderlab,hlsl          # hide C#, ShaderLab, HLSL (Unity)
+&size_weight=0.3&count_weight=0.7  # reduce “big repo” bias
+)
+
 
 ---
 
