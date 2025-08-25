@@ -159,6 +159,8 @@
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoRomeo&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=pie)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=donut)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoRomeo&layout=compact&theme=radical&langs_count=8&hide=c%23,css,shaderlab,hlsl,HLSL&size_weight=0.3&count_weight=0.7)
 
 
