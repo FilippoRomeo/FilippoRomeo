@@ -32,8 +32,6 @@
 
 ## 🛠️ Tools & Technologies  
 
-## 🛠️ Tools & Technologies  
-
 <table>
   <tr>
     <th>Programming & Web</th>
