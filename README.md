@@ -1,4 +1,4 @@
-# Hi 👋, I'm Filippo  
+# Hi 👋,
 
 Creative Developer | AI & Deep Learning | Tech-Driven Artist
 
