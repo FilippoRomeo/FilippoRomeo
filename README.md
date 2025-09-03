@@ -1,6 +1,6 @@
 # Hi 👋, I'm Filippo  
 
-🎨 Creative Technologist | 🤖 Deep Learning Resident | 🕹️ Developer-Artist  
+Creative Developer | AI & Deep Learning | Tech-Driven Artist
 
 ---
 
