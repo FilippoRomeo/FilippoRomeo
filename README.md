@@ -7,8 +7,8 @@ Creative Developer | AI & Deep Learning | Tech-Driven Artist
 ## 💡 About Me
 - 🧑‍💻 Deep Learning Resident at the **Machine Learning Institute**  
 - 🎨 Founder & Creative Director at **CEN Space Ltd**, building interactive installations and digital experiences  
-- 🌱 Exploring **RAG pipelines, multimodal learning, and reinforcement learning**  
-- 👯 Open to collaborations in **AI art, creative tech, and human-centred interfaces**  
+- 🌱 Exploring **RAG pipelines, MCPs, multimodal learning, and reinforcement learning**  
+- ✨ Open to collaborations in **AI art, creative tech, and human-centred interfaces**  
 - 📚 MSc in **Creative Computing** (UAL) · BSc in **Web & Mobile Development** (UWS)  
 
 ⚡ Fun fact: I blend **artistic vision** with **production-grade engineering**, from AI-driven poetry models to physical-computing installations.  
