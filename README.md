@@ -11,7 +11,7 @@ Creative Developer | AI & Deep Learning | Tech-Driven Artist
 - ✨ Open to collaborations in **AI art, creative tech, and human-centred interfaces**  
 - 📚 MSc in **Creative Computing** (UAL) · BSc in **Web & Mobile Development** (UWS)  
 
-⚡ Fun fact: I blend **artistic vision** with **production-grade engineering**, from AI-driven poetry models to physical-computing installations.  
+⚡ I blend **artistic vision** with **production-grade engineering**, from AI-driven poetry models to physical-computing installations.  
 
 ---
 
