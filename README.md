@@ -77,6 +77,7 @@ Creative Developer | AI & Deep Learning | Tech-Driven Artist
     <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/LoRA/PEFT-512BD4?logo=openai&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white"></td>
+     <td align="center"><img src="https://img.shields.io/badge/duckdb-FFEA00?logo=duckdb&logoColor=black"></td>
     <td align="center"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/InDesign-FF3366?logo=adobe-indesign&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/PCB_Design-008000?logo=cirruslogic&logoColor=white"></td>
