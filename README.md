@@ -48,7 +48,6 @@ Creative Developer | AI & Deep Learning | Tech-Driven Artist
     <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/duckdb-FFEA00?logo=duckdb&logoColor=black"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></td>
