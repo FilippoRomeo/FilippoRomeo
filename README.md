@@ -19,22 +19,14 @@ Based in London.
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [Agent Response History](https://github.com/FilippoRomeo/agent-response-history)
-
-Local macOS tooling for listing, copying, storing, and reusing complete assistant replies from Claude Code and Codex sessions.
-
-`Python` `Claude Code` `Codex` `local-first tooling`
-
+<h3><a href="https://github.com/FilippoRomeo/agent-response-history">Agent Response History</a></h3>
+<p>Local macOS tooling for listing, copying, storing, and reusing complete assistant replies from Claude Code and Codex sessions.</p>
+<p><code>Python</code> <code>Claude Code</code> <code>Codex</code> <code>local-first</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [Responsively Sessions](https://github.com/FilippoRomeo/responsively-app)
-
-A maintained Responsively fork adding persistent isolated browser Sessions, independent profiles and processes, MCP lifecycle tooling, and validated macOS installation workflows.
-
-`TypeScript` `Electron` `React` `MCP` `macOS`
-
+<h3><a href="https://github.com/FilippoRomeo/responsively-app">Responsively Sessions</a></h3>
+<p>A maintained Responsively fork adding persistent isolated browser Sessions, independent profiles and processes, MCP lifecycle tooling, and validated macOS installation workflows.</p>
+<p><code>TypeScript</code> <code>Electron</code> <code>React</code> <code>MCP</code> <code>macOS</code></p>
 </td>
 </tr>
 </table>
